@@ -8,7 +8,7 @@
 http://boutiquesfashion.com/
 
 <a id="nofollowlink" rel="nofollow" href="http://boutiquesfashion.com/">Boutique Fashion</a>
-<script>document.getElementById("nofollowlink").rel = 'dofollow';</script>
+<script>document.getElementById("nofollowlink").rel='dofollow';</script>
 <!---
 Paul0Frofro/Paul0Frofro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
